@@ -1,0 +1,6 @@
+files:
+  - ./files/customer.csv
+  - ./files/leads.csv
+  - ./files/people.csv
+  - ./files/products.csv
+  - ./files/organizations.csv
